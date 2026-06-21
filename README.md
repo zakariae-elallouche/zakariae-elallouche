@@ -27,14 +27,16 @@ Mode : académique + projets perso + ouvert aux opportunités (stage, freelance,
 
 ## Projets
 
+### 🔷 Cabinet Dentaire — Gestion Médicale
+Application web full-stack de gestion d'un cabinet dentaire avec système de rendez-vous, consultations, ordonnances et facturation.  
+3 rôles : Patient, Secrétaire, Dentiste  
+Authentification par token (Sanctum) · Génération PDF côté client · Calendrier interactif  
+`Laravel 11` `React 18` `MySQL` `Vite` `jsPDF` `Axios`
+
 ### 🔷 MonObjectif — Gestion de Présentations
 Module web pour établissements scolaires/universitaires.  
 Dépôt de fichiers par groupe · évaluation enseignant · feedback structuré.  
 `Node.js` `JavaScript` `SQL`
-
-### 🔷 Track & Trace — Prototype Portuaire *(en cours)*
-Mini-système de suivi de flux inspiré du PCS Tanger Med.  
-`React` `Node.js` `REST API`
 
 ### 🔷 Sites Web Freelance
 Interfaces responsives pour entreprises locales.  
