@@ -57,7 +57,6 @@ Interfaces responsives pour entreprises locales.
 ## Statut
 
 🟢 **Disponible** pour :
-- Stage d'initiation / formation (été 2025–2026)
 - Collaborations étudiantes & projets open-source
 - Missions freelance web (React / Node.js)
 
