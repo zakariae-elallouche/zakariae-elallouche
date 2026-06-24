@@ -44,24 +44,8 @@ Interfaces responsives pour entreprises locales.
 
 ---
 
-## Formation
-
-| Diplôme | Établissement | Année |
-|---|---|---|
-| Ingénieur 2ITE *(en cours)* | ENSA El Jadida | 2025 – 2028 |
-| DEUG 2IDL | FS Tétouan · UAE | 2025 |
-| BAC Sciences Physiques | Lycée Imam Al Ghazali · Tétouan | 2023 |
-
----
-
-## Statut
-
-🟢 **Disponible** pour :
-- Collaborations étudiantes & projets open-source
-- Missions freelance web (React / Node.js)
-
-📩 `zakariaeelallouche@gmail.com`  
-🔗 [LinkedIn](https://www.linkedin.com/in/elallouchezakariae/)
+### Me contacter
+[LinkedIn](https://www.linkedin.com/in/elallouchezakariae/)  ·  `zakariaeelallouche@gmail.com`  ·  [Portfolio](https://zakariaeelallouche.space/)
 
 ---
 
